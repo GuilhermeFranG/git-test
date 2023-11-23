@@ -1,6 +1,6 @@
 ﻿# Git-Test
 
-Este projeto foi desenvolvido utilizando linguagem da programação **Python** e **HMTL5**. Para dúvidas, escreva `qhilherme@gmail.com`.
+Este projeto foi desenvolvido utilizando linguagem da programação **Python** e **HMTL5**. Para dúvidas, escreva:`qhilherme@gmail.com`.
 
 ### COMO CONFIGURAR
 
@@ -8,8 +8,8 @@ Insira suas credenciais no arquivo `JSON` conforme o modelo a seguir:
 
 ```json
 {
-    user: "username",
-    pass: "Dueguinho"
+    User: "username",
+    Password: "************"
 }
 ```
 
@@ -25,6 +25,4 @@ A execução é feita através do comnado `npm`:
 $ npm run star  --args=DEV
 ```
 
-
-
-Vai na fé cupinxa!!!
+#### Desde já, agradacemos pela preferência!
